@@ -1,0 +1,3 @@
+/home/taquy/Projects/cpp/ColorSegmentation/build/CMakeFiles/edit_cache.dir
+/home/taquy/Projects/cpp/ColorSegmentation/build/CMakeFiles/rebuild_cache.dir
+/home/taquy/Projects/cpp/ColorSegmentation/build/CMakeFiles/PathChaser.dir
